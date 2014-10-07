@@ -1,4 +1,5 @@
 # Maily
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/markets/maily?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 [![Gem Version](https://badge.fury.io/rb/maily.svg)](http://badge.fury.io/rb/maily) [![Build Status](https://travis-ci.org/markets/maily.svg?branch=master)](https://travis-ci.org/markets/maily)
 
